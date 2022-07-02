@@ -1,4 +1,4 @@
-# Meus exercicios que aprendi nos BootCamps
+# Projetos realizados nos Bootcamps
 
 <p>Recriando a pagina do Instagram</p>
 <p>To-do-list</p>
